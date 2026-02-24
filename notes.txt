@@ -1,0 +1,19 @@
+Fundamentos de python
+
+1 Variables
+2 Operaciones matematicos basicos
+3 Operadores logicos
+4 Operadores de comparacion
+5 Control de flujo
+    - Condicionales simples
+    - Condicionales compuestos
+    - Ciclos finitos e infinitos
+    - Funciones
+6 Estructuras de datos
+    - Cadenas (strings)
+    - Enteros
+    - Flotantes
+    - Listas
+    - Tuplas
+    - Diccionarios
+7 Fundamentos de Programacion Orientados a Objetos
