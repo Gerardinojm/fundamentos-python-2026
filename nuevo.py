@@ -133,3 +133,16 @@ number2 = 3
 # }
 
 # print(person["name"])
+
+
+# Ciclo for
+# names list
+names = ["Gerar", "Maria", "Juan"]
+
+# for name in names:
+#     print(name)
+
+# print(len(names))
+
+# for name in range(len(names)):
+#     print(names[name])
