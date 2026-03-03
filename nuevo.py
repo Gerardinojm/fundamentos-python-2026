@@ -4,21 +4,21 @@ age = 24 #integer
 Height = 1.72 #float
 is_student = True #boolean
 
-# mlas practicas
+# malas practicas
 x = 10
 
 number1 = 5
 number2 = 3
 
 # suma
-result_sum = number1 + number2
+# result_sum = number1 + number2
 
 # print("La suma es:", result_sum)
 
 # print(f"El resultado de la resta es: {number1 - number2}")
 
 # modulo o residuo
-result_modulo = number1 % number2
+# result_modulo = number1 % number2
 
 
 # Operadores de comparación
@@ -28,6 +28,7 @@ result_modulo = number1 % number2
 # diferente de !=
 # mayor o igual que >=
 # menor o igual que <=
+
 
 # condicional simple
 # age = 18
@@ -40,6 +41,7 @@ result_modulo = number1 % number2
 # age = 18
 # weekday = "Viernes"
 
+
 # if age >= 20:
 #     if weekday == "Viernes":
 #         print("Eres mayor de edad y es viernes")
@@ -48,7 +50,8 @@ result_modulo = number1 % number2
 # else:
 #     print("Eres menor de edad")
 
-#     # Condicionales en cadena
+
+# Condicionales en cadena
 # age = 21
 # weekday = "Lunes"
 
@@ -64,6 +67,17 @@ result_modulo = number1 % number2
 # else:
 #     print("Eres menor de edad")
 
+
+# Opersadores logicos
+# age = 21
+# weekday = "Lunes"
+
+# if (age >= 20) and ((weekday == "Viernes") or (weekday == "Sabado")):
+#         print("Eres mayor de edad y es viernes o sabado")
+# else:
+#     print("Eres menor de edad o no es viernes ni sabado")
+
+
 # Operadores comparacion
 # age = 21
 # weekday = "Lunes"
@@ -73,25 +87,30 @@ result_modulo = number1 % number2
 # else:
 #     print("Eres menor de edad")
 
+
 # estructuras de datos
-# greeting = "Hola, ¿cómo estás?" #string
-# number1 = 10 #integer
-# number_float = 3.14 #float
-# is_student = False #boolean
+# cadenas de texto
+# greeting = "Hola, ¿cómo estás?"   #string
+# number1 = 10  #integer
+# number_float = 3.14   #float
+# is_student = False    #boolean
+
 
 # Listas
-fruits = ["manzana", "banana", "naranja", 10, 3.14, True]
-names = [
-    "Gerar",
-    "Maria",
-    "Juan",
-    "Ana"]
+# fruits = ["manzana", "banana", "naranja", 10, 3.14, True]
+# names = [
+#     "Gerar",
+#     "Maria",
+#     "Juan",
+#     ]
 
+# Metodos de listas
 # names.pop()
 
 # add new names to the list
 # names.append("Carlos")
-# print(names[-3])
+# print(names[-1])
+
 
 # tupla
 # coordinates = (10.0, 20.0, 30.0)
@@ -105,12 +124,12 @@ names = [
 # print(coordinates[0])
 
 # diccionario
-person = {
-    "name": "Gerar",
-    "age": 24,
-    "height": 1.72,
-    "is_student": True,
-    "grades": [8, 9, 10]
-}
+# person = {
+#     "name": "Gerar",
+#     "age": 24,
+#     "height": 1.72,
+#     "is_student": True,
+#     "grades": [8, 9, 10]
+# }
 
-print(person["name"])
+# print(person["name"])
